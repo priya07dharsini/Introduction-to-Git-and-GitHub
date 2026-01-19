@@ -1,0 +1,6 @@
+All contributions
+bug Reports
+bug Fixes
+documentation improvements
+enhancements
+ideas are welcome
