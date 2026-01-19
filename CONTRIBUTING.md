@@ -3,4 +3,4 @@ bug Reports,
 bug Fixes,
 documentation improvements,
 enhancements,
-ideas are welcome,
+ideas are welcome.
